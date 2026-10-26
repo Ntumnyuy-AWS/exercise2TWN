@@ -42,7 +42,5 @@ Git commands without directly modifying the networking branch.
 ## Key Takeaway
 
 Git commits record changes locally. Pushing sends those commits
-to a remote repository such as Github
+to a remote repository such as GitHub.
 
-:%s/Github$/GitHub./.
-:g/^\.$/d
