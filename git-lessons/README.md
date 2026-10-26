@@ -32,7 +32,17 @@ Branches allow changes to be developed separately from other work.
 The branch `feature/gitlessons` is being used to practise
 Git commands without directly modifying the networking branch.
 
+## Practical Git Workflow Completed
+
+- Created a feature branch.
+- Created and edited a README with Vim.
+- Staged and committed the new file.
+- Pushed the branch to GitHub.
+
 ## Key Takeaway
 
 Git commits record changes locally. Pushing sends those commits
-to a remote repository such as GitHub.
+to a remote repository such as Github
+
+:%s/Github$/GitHub./.
+:g/^\.$/d
