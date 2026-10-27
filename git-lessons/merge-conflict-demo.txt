@@ -1,4 +1,4 @@
 Application configuration
-APP_ENV=development
+APP_ENV=staging
 APP_PORT=3000
 LOG_LEVEL=info
